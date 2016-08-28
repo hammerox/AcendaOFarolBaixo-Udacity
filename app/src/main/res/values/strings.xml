@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name" translatable="false">Acenda o Farol Baixo</string>
+
+    <!--PREFERENCES-->
+
+    <string name="pref_file_name" translatable="false">preferences</string>
+
+    <string name="pref_category_alarm">Alarm settings</string>
+
+    <string name="pref_alarm_test_key" translatable="false">TEST</string>
+    <string name="pref_alarm_test_title">Test Alarm</string>
+    <string name="pref_alarm_test_summary">Click here to trigger the alarm</string>
+
+    <string name="pref_alarm_vibrate_key" translatable="false">ALARM_VIBRATE</string>
+    <string name="pref_alarm_vibrate_title">Vibrate</string>
+    <string name="pref_alarm_vibrate_summary">When triggered, device will vibrate</string>
+
+    <string name="pref_alarm_type_key" translatable="false">ALARM_TYPE</string>
+    <string name="pref_alarm_type_title">Alarm Type</string>
+    <string name="pref_alarm_type_summary">Choose between voice or alarm sound</string>
+
+    <string name="pref_alarm_sound_key" translatable="false">ALARM_SOUND</string>
+    <string name="pref_alarm_sound_title">Alarm Sound</string>
+    <string name="pref_alarm_sound_summary">Change the alarm sound</string>
+
+    <string name="pref_alarm_speech_key" translatable="false">ALARM_SPEECH</string>
+    <string name="pref_alarm_speech_title">Voice Speech</string>
+    <string name="pref_alarm_speech_summary">Change what the system speaks</string>
+    <string name="pref_alarm_speech_default">Turn on the low beams</string>
+
+    <string name="pref_category_others">Others</string>
+
+    <string name="pref_boot_key" translatable="false">START_ON_BOOT</string>
+    <string name="pref_boot_title">Start alarm on boot</string>
+    <string name="pref_boot_summary">Alarm will turn on automatically when you restart your device</string>
+
+    <string name="pref_historic_key" translatable="false">HISTORIC</string>
+    <string name="pref_historic_title">Historic</string>
+    <string name="pref_historic_summary">View dates and times that alarm has been triggered</string>
+
+    <!--ACTIVITIES AND VIEWS-->
+
+    <string name="detector_button_text_on">Detector is on</string>
+    <string name="detector_button_text_off">Detector is off</string>
+
+    <string name="detector_instructions">How it works?</string>
+    <string name="detector_instructions_1">Activate the device on the button above</string>
+    <string name="detector_instructions_2">The application will notify you \neverytime you are on a car</string>
+    <string name="detector_instructions_3">Turn on the beams and avoid tickets =)</string>
+
+    <string name="title_activity_alarm" translatable="false">Alarm Activity</string>
+    <string name="alarm_okay_text">Okay</string>
+    <string name="alarm_config_text">Change Config</string>
+
+    <string name="historic_emptytext">Historic is empty</string>
+
+
+    <!--OTHERS-->
+
+
+
+
+</resources>

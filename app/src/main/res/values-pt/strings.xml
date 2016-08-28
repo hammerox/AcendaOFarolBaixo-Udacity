@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alarm_config_text">Configurar</string>
+    <string name="alarm_okay_text">Okay</string>
+    <string name="detector_instructions">Como funciona?</string>
+    <string name="detector_instructions_1">Ative o dispositivo no botão acima</string>
+    <string name="detector_instructions_2">O aplicativo te notificará sempre que \nvocê estiver em um carro</string>
+    <string name="detector_instructions_3">Acenda o farol baixo e não tome multas =)</string>
+    <string name="historic_emptytext">Histórico vazio</string>
+    <string name="pref_alarm_sound_summary">Altere o som do alarme</string>
+    <string name="pref_alarm_sound_title">Som do Alarme</string>
+    <string name="pref_alarm_type_title">Tipo de Alarme</string>
+    <string name="pref_alarm_vibrate_title">Vibração</string>
+    <string name="pref_category_others">Outros</string>
+    <string name="pref_historic_title">Histórico</string>
+    <string name="pref_historic_summary">Veja todas as datas e horários em que o alarme disparou</string>
+    <string name="pref_category_alarm">Configurações do Alarme</string>
+    <string name="pref_boot_title">Ativar alarme ao inicializar</string>
+    <string name="pref_boot_summary">Alarme ligará automaticamente quando você reiniciar seu dispositivo</string>
+    <string name="pref_alarm_vibrate_summary">Ativar vibração quando alarme disparar</string>
+    <string name="pref_alarm_type_summary">Escolha entre voz humana e som de alarme</string>
+    <string name="pref_alarm_test_title">Teste o Alarme</string>
+    <string name="pref_alarm_test_summary">Clique aqui para disparar o alarme</string>
+    <string name="pref_alarm_speech_title">Discurso da Voz</string>
+    <string name="pref_alarm_speech_summary">Altere a frase que o sistema dirá</string>
+    <string name="pref_alarm_speech_default">Acenda o farol baixo</string>
+    <string name="detector_button_text_off">Detector está desligado</string>
+    <string name="detector_button_text_on">Detector está ligado</string>
+</resources>

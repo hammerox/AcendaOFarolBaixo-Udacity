@@ -1,0 +1,12 @@
+# This is a sample file.
+# To sign the app you'll need to create a 'release.properties' file in the
+# root directory of your project using the variables below
+# (do not edit the variable's names, edit only the values)
+
+keyStore=C:/MyPath/keystore.jks
+
+keyStorePassword=MyPassword
+
+keyAlias=MyAppAlias
+
+keyAliasPassword=MyPassword
